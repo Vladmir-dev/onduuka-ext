@@ -4,7 +4,7 @@ import Body from './Body'
 
 const Page1: React.FC = () => {
   return (
-    <div className="py-10 bg-[#E5E5E5] w-full h-screen">
+    <div className="py-10 bg-[#F9F9F9] w-full h-screen">
      <Header  />
      <Body />
     </div>
